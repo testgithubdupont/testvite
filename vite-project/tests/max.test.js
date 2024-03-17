@@ -3,7 +3,7 @@ import { max } from "../src/mycode";
 
 describe("max", () => {
   it("should return the first argument if it is greater", () => {
-    expect(max(2, 1)).toBe(2);
+    expect(max(2, 1)).toBe
   });
 
   it("should return the second argument if it is greater", () => {
